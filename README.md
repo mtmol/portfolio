@@ -1,5 +1,4 @@
-# portfolio
-This is where I share little projects I was able to accomplish by myself or under guidance of a tutor 
-to display the outcomes of my skills to interested recruiters.
-
-It might include blueprints and screenshots of the desired outcomes.
+# Course
+These documents refer to a 160h crash course in Digital Security covering some programming and legal fundamentals 
+and also the simulation of a small enterprise with one headquarter, one filial, a VPN connection between these two
+and a Kali-Linux simulating an ethical hacker finding vulnerabilities and remediating these.
